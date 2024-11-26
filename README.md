@@ -1,6 +1,6 @@
 # **Custom Data Chatbot Using RAG (Retrieval-Augmented Generation)**
 
-![Chatbot Banner](https://via.placeholder.com/1200x300.png?text=Custom+Data+Chatbot+Using+RAG](https://nordvpn.com/wp-content/uploads/blog-featured-what-is-chatbot.svg)
+![Chatbot Banner](https://nordvpn.com/wp-content/uploads/blog-featured-what-is-chatbot.svg)
 
 ---
 
