@@ -153,7 +153,7 @@ This project is licensed under the MIT License. See LICENSE for more information
 
 ## **Acknowledgments**
 1. **Hugging Face** for providing robust embeddings and LLMs.
-2. **LangChain ** for simplifying chain-based workflows.
-3. **ChromaDB ** for efficient and scalable vector storage.
+2. **LangChain** for simplifying chain-based workflows.
+3. **ChromaDB** for efficient and scalable vector storage.
 
 
