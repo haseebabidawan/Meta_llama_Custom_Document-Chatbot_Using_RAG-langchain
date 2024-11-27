@@ -13,6 +13,8 @@ This repository demonstrates a **Custom Data Chatbot** built using **Retrieval-A
 Traditional keyword-based search systems often fail to provide precise and context-aware results. For example:
 - Businesses may struggle to retrieve specific answers from dense documents such as manuals or policies.
 - Users may require detailed explanations or summaries rather than just locating keywords.
+- 
+![RAG Banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*d4XRH4R7p40_vzD6CFYXsQ.jpeg)
 
 ### **Objective**
 To develop a chatbot that:
